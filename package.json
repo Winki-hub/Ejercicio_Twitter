@@ -1,0 +1,26 @@
+{
+  "name": "ejercicio-twitter",
+  "version": "1.0.0",
+  "description": "API RESTful usando el framework Express para Node.js para un proyecto copia de Twitter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Marcos, Lorenzo y Fran",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "fs": "0.0.2",
+    "mongoose": "^6.0.11",
+    "nodemon": "^2.0.14",
+    "uniqid": "^5.4.0"
+  },
+  "keywords": [
+    "Node.js",
+    "API",
+    "RESTful",
+    "Express"
+  ],
+  "devDependencies": {}
+}
